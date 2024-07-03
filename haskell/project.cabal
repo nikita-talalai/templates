@@ -1,0 +1,7 @@
+name: project
+version: 1.0.0.0
+
+executable project
+  main-is: Main.hs
+  build-depends: 
+     base
